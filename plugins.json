@@ -600,24 +600,6 @@
         "name": "Loklok"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=minioppai.org&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 19164,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Sora"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 11,
-        "internalName": "Minioppai",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Minioppai.cs3",
-        "name": "Minioppai"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=moflix-stream.xyz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
@@ -675,24 +657,6 @@
         "description": "Includes: Hdmovie2, Animesaga",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
         "name": "Movierulzhd"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 22113,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Sora"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 6,
-        "internalName": "Nekopoi",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nekopoi.cs3",
-        "name": "Nekopoi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.ink&sz=%size%",
