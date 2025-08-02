@@ -815,6 +815,26 @@
         "name": "OtakudesuProvider"
     },
     {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 12443,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Pencurimovie",
+        "description": "Pencurimovie ",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Pencurimovie.cs3",
+        "name": "Pencurimovie"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=xem1080.com",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
