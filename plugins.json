@@ -33,30 +33,9 @@
         ],
         "version": 6,
         "internalName": "DaddyLive",
-        "description": "Live & Sport TV",
+        "description": "Indian TV",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DaddyLive.cs3",
         "name": "DaddyLive"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 12041,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Cartoon",
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "Dubbindo",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Dubbindo.cs3",
-        "name": "Dubbindo"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom&sz=%size%",
