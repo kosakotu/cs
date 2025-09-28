@@ -83,23 +83,25 @@
         "name": "IdlixProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "jarFileSize": 81231,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 19301,
-        "status": 0,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 18911,
+        "status": 1,
         "language": "id",
         "authors": [
-            "Hexated"
+            "Hexated,Phisher98"
         ],
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
             "Movie"
         ],
-        "version": 20,
+        "version": 5,
         "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/LayarKacaProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
