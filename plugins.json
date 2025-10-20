@@ -20,6 +20,24 @@
         "name": "Anichi"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/DaddyLive/live-streaming.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "fileSize": 32975,
+        "status": 1,
+        "authors": [
+            "doGior"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 15,
+        "internalName": "DaddyLive",
+        "description": "Live TV from DaddyLive. You might need a VPN",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/DaddyLive.cs3",
+        "name": "DaddyLive"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/daddylive.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
